@@ -1,0 +1,10 @@
+Nodes with negative slack:
+Node 0 has negative slack: -9
+Node 1 has negative slack: -9
+Node 2 has negative slack: -9
+Node 3 has negative slack: -9
+Node 4 has negative slack: -9
+Node 5 has negative slack: -9
+Node 6 has negative slack: -9
+Node 7 has negative slack: -9
+Updated nodesList: {0 0 -9 -9} {1 0 -9 -9} {2 1 -8 -9} {3 4 -5 -9} {4 5 -4 -9} {5 7 -2 -9} {6 12 3 -9} {7 18 9 -9}
